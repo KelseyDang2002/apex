@@ -1,0 +1,1 @@
++fps_max 144 -fullscreen +reticle_color "0 255 0" +cl_is_softened_locale 1 -dev +cl_showpos +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1"
